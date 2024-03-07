@@ -1,0 +1,12 @@
+AppInitializer: Static
+B: Static
+A: Static 
+D:  Static
+C: Static
+B: Instance
+AppInitializer : Instance
+B: Instance
+A: Instance
+C: Instance
+C: Constructor
+33
